@@ -64,3 +64,22 @@ body {
 .logo {
     width: 150px;
 }
+
+body {
+    background-color: white;
+    color: black;
+    font-family: Arial, sans-serif;
+}
+
+.dark {
+    background-color: black;
+    color: white;
+}
+
+.mission-statement {
+    margin: 20px;
+}
+
+.footer .logo {
+    width: 150px;
+}
